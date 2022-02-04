@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - prints the size of various types 
+ * main - prints the size of various types
  *
  * Return : always 0
  *
@@ -9,7 +9,7 @@
 int main(void)
 {
 	/*
-	 * using sizeof  
+	 * using sizeof
 	 *
 	 */
 	printf("Size of a char: %ld byte(s)\n", sizeof(char));
