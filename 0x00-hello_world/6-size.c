@@ -9,7 +9,7 @@
 int main(void)
 {
 	/*
-	 * 
+	 * using sizeof  
 	 *
 	 */
 	printf("Size of a char: %ld byte(s)\n", sizeof(char));
