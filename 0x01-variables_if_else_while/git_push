@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Ingrese add: "
+read ADD_
+git add $ADD_
+echo "ingrese commit: "
+read COM_
+git commit -m $COM_
+git push
